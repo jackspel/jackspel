@@ -1,4 +1,4 @@
-<p align="right"> <img src="https://cdn.pixabay.com/photo/2018/01/17/04/14/industry-3087393_960_720.jpg" alt="tecnologia informação"/></p>
+<p align="right"> <img src="https://www.viniciusghise.com.br/wp-content/uploads/2021/11/metaverso-metaverse-768x289.jpg" alt="tecnologia informação"/></p>
 
 <h1 align="center">Olá 👋, Eu sou Jackson</h1>
 <h3 align="center">Um eterno estudante! Apaixonado pela Programação e a área Jurídica, com o sonho de poder desenvolver trabalhos na área com a junção destas.</h3>
