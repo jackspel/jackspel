@@ -1,7 +1,7 @@
 <p align="right"><img src="https://raw.githubusercontent.com/YuliangXiu/ECON/master/assets/teaser.gif" alt="tecnologia informação"/></p>
 
 <h1 align="center">Olá 👋, Eu sou Jackson</h1>
-<h3 align="center">Um eterno estudante! Apaixonado pela Programação e a área Jurídica, com o sonho de poder desenvolver trabalhos na área com a junção destas.</h3>
+<h3 align="center">Um eterno estudante! Apaixonado pela área Jurídica e programação, com o sonho de poder desenvolver trabalhos na área com a junção destas.</h3>
 
 <br>
 
@@ -16,7 +16,7 @@
     <td> 🔴 Direito </td>
   </tr>
   <tr>
-    <td> 🧑🏽‍💻 Sistemas para Internet (em andamento) </td>
+    <td> 🧑🏽‍💻 Sistemas para Internet </td>
     <td>🔴 Lei Geral de Proteção de Dados ( LGPD )</td>
   </tr>
   <tr>
